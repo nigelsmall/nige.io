@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'DejaVu Sans Mono';
+  src: url('DejaVuSansMono.eot');
+  src: url('DejaVuSansMono.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono.woff')       format('woff'),
+       url('DejaVuSansMono.ttf')        format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DejaVu Sans Mono';
+  src: url('DejaVuSansMono-Oblique.eot');
+  src: url('DejaVuSansMono-Oblique.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-Oblique.woff')       format('woff'),
+       url('DejaVuSansMono-Oblique.ttf')        format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'DejaVu Sans Mono';
+  src: url('DejaVuSansMono-Bold.eot');
+  src: url('DejaVuSansMono-Bold.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-Bold.woff')       format('woff'),
+       url('DejaVuSansMono-Bold.ttf')        format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DejaVu Sans Mono';
+  src: url('DejaVuSansMono-BoldOblique.eot');
+  src: url('DejaVuSansMono-BoldOblique.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-BoldOblique.woff')       format('woff'),
+       url('DejaVuSansMono-BoldOblique.ttf')        format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
