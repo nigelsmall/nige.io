@@ -2,6 +2,7 @@
   font-family: 'Courier Prime Code';
   src: url('CourierPrimeCode-Regular.eot');
   src: url('CourierPrimeCode-Regular.eot?#iefix') format('embedded-opentype'),
+       url('CourierPrimeCode-Regular.woff2')      format('woff2'),
        url('CourierPrimeCode-Regular.woff')       format('woff'),
        url('CourierPrimeCode-Regular.ttf')        format('truetype');
   font-weight: normal;
@@ -11,6 +12,7 @@
   font-family: 'Courier Prime Code';
   src: url('CourierPrimeCode-Italic.eot');
   src: url('CourierPrimeCode-Italic.eot?#iefix') format('embedded-opentype'),
+       url('CourierPrimeCode-Italic.woff2')      format('woff2'),
        url('CourierPrimeCode-Italic.woff')       format('woff'),
        url('CourierPrimeCode-Italic.ttf')        format('truetype');
   font-weight: normal;

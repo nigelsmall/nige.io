@@ -2,6 +2,7 @@
   font-family: 'DejaVu Sans Mono';
   src: url('DejaVuSansMono.eot');
   src: url('DejaVuSansMono.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono.woff2')      format('woff2'),
        url('DejaVuSansMono.woff')       format('woff'),
        url('DejaVuSansMono.ttf')        format('truetype');
   font-weight: normal;
@@ -11,6 +12,7 @@
   font-family: 'DejaVu Sans Mono';
   src: url('DejaVuSansMono-Oblique.eot');
   src: url('DejaVuSansMono-Oblique.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-Oblique.woff2')      format('woff2'),
        url('DejaVuSansMono-Oblique.woff')       format('woff'),
        url('DejaVuSansMono-Oblique.ttf')        format('truetype');
   font-weight: normal;
@@ -20,6 +22,7 @@
   font-family: 'DejaVu Sans Mono';
   src: url('DejaVuSansMono-Bold.eot');
   src: url('DejaVuSansMono-Bold.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-Bold.woff2')      format('woff2'),
        url('DejaVuSansMono-Bold.woff')       format('woff'),
        url('DejaVuSansMono-Bold.ttf')        format('truetype');
   font-weight: bold;
@@ -29,6 +32,7 @@
   font-family: 'DejaVu Sans Mono';
   src: url('DejaVuSansMono-BoldOblique.eot');
   src: url('DejaVuSansMono-BoldOblique.eot?#iefix') format('embedded-opentype'),
+       url('DejaVuSansMono-BoldOblique.woff2')      format('woff2'),
        url('DejaVuSansMono-BoldOblique.woff')       format('woff'),
        url('DejaVuSansMono-BoldOblique.ttf')        format('truetype');
   font-weight: bold;
